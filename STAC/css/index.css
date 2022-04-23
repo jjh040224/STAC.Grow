@@ -1,0 +1,27 @@
+body {
+    margin: 0%;
+}
+
+.header {
+    margin: 0%;
+    width: 100vw;
+    height: 17vh;
+    background: rgba(90, 114, 98, 0.8);
+}
+
+.logo {
+    margin-top: 0%;
+    text-align: center;
+    color: white;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    color: white;
+}
+
+div {
+    margin-top: 25px;
+}
